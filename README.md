@@ -1,5 +1,9 @@
 ### Gamedev, Webdev, 3D Modeling et cetera
 
+<p align="center">
+  <img src="header.png" alt="Banner" width="100%">
+</p>
+
 
 - 🔭 Currently working on **An Obsidian Second Brain System, Soma3D - an ultra low weight portfolio website using deno/preact/brotli, and an ECS/ECA system for gamedev in Godot**
 
