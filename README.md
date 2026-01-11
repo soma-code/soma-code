@@ -47,7 +47,8 @@
                 <p>
                     GLADIATE is a Spectacle Fighter Card Game built Open Source from the ground up in Godot! 
                     Play with 6 unique decks and fight your way through a gauntlet of foes. 
-                    Not only do you need to fight to survive, but also pull of combos to maximise your spectacle points and please the crowd.
+                    Not only do you need to fight to survive, but also pull of combos to maximise your spectacle points and please the crowd.<br>
+                    <br>
                     Features:
                     <ul>
                         <li>Six decks with diffrent playstyles and unique combos.</li>
@@ -56,10 +57,46 @@
                         <li>Unique card, deck and combo art.</li>
                         <li>High score tracking</li>
                     </ul>
-                Now available on <a href="https://teicsoft.itch.io/gladiate" target="_blank" rel="noreferrer">itch.io</a> and <a href="https://store.steampowered.com/app/3106750/Gladiate" target="_blank" rel="noreferrer">Steam</a>!
+                <p>
+                    <a href="https://teicsoft.itch.io/gladiate" target="_blank" rel="noreferrer">
+                        <img src="https://img.shields.io/badge/itch.io-Gladiate-f7768e?style=for-the-badge&labelColor=1a1b26&logo=itchdotio&logoColor=white" alt="itch.io Gladiate" />
+                    </a><br>
+                    <a href="https://store.steampowered.com/app/3106750/Gladiate" target="_blank" rel="noreferrer">
+                        <img src="https://img.shields.io/badge/Steam-Gladiate-2ac3de?style=for-the-badge&labelColor=1a1b26&logo=steam&logoColor=white" alt="Steam Gladiate" />
+                    </a>
+                </p>
                 </p>
             </td>
             <td><img align="right" width=700px src="https://img.itch.zone/aW1nLzE2MjUyOTM0LnBuZw==/original/bIPvXK.png" alt="gladiate poster"></td>
+        </tr>
+    </table>
+</p>
+<p align = "center">
+    <hr>
+    <table>
+        <tr>
+            <td>
+                <p>
+                    Rogue Massive was made by myself and <a href="https://github.com/L34Z" target="_blank" rel="noreferrer">L34Z</a> as an entry for <a href="https://itch.io/jam/mini-jam-198-speed" target="_blank" rel="noreferrer">Mini Jam 198-Speed</a>. A 2d snake/vampire survivors type bullet heaven game.
+                    All assets including the pre rendered ui assets were created in blender, and used as 2d sprites in game.<br>
+                    It was made in Godot over three days and its core is an ECSesque system.<br>
+                    <br>
+                    Features:
+                    <ul>
+                        <li>Capture and recruit enemies</li>
+                        <li>Procedural space shader setup for world enviornment</li>
+                        <li>Intuative mouse controls.</li>
+                        <li>Fleet length tracking.</li>
+                        <li>Virgin Interactive inspired UI elements.</li>
+                    </ul>
+                    <p>
+                        <a href="https://www.artstation.com/artwork/a0wvm0" target="_blank" rel="noreferrer">
+                            <img src="https://img.shields.io/badge/ArtStation-Rogue%20Massive-bb9af7?style=for-the-badge&labelColor=1a1b26&logo=artstation&logoColor=white" alt="ArtStation Rogue Massive" />
+                        </a>
+                    </p>
+                </p>
+            </td>
+            <td><img align="right" width=700px src="https://cdna.artstation.com/p/assets/images/images/095/274/714/large/soma-rogue-massive-boxart.webp?1768134835" alt="gladiate poster"></td>
         </tr>
     </table>
 </p>
