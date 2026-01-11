@@ -27,13 +27,11 @@
   <a href="https://godotengine.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=godot" alt="Godot" width="40" height="40"/></a>
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=photoshop" alt="Photoshop" width="40" height="40"/></a>
   <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=illustrator" alt="Illustrator" width="40" height="40"/></a>
-  <a href="https://www.coreldraw.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=coreldraw" alt="CorelDRAW" width="40" height="40"/></a>
-  <a href="https://affinity.serif.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=affinity" alt="Affinity" width="40" height="40"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="40" height="40"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="40" height="40"/></a>
   <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40"/></a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="40" height="40"/></a>
-  <a href="https://fresh.deno.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=fresh" alt="Fresh" width="40" height="40"/></a>
   <a href="https://deno.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=deno" alt="Deno" width="40" height="40"/></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40"/></a>
 </p>
