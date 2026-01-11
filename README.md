@@ -22,6 +22,7 @@
 
 ---
 <h3 align="left">Languages and Tools:</h3>
+<p align="left">
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/blender" alt="Blender" width="40" height="40"/></a>
   <a href="https://godotengine.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/godotengine" alt="Godot" width="40" height="40"/></a>
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/adobephotoshop" alt="Photoshop" width="40" height="40"/></a>
