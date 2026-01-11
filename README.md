@@ -2,7 +2,7 @@
   <img src="banner.png" alt="Header" width="100%">
 </p>
 
-<h1 align="center">Soma Code</h1>
+<h1 align="center">Soma <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&size=32&letterSpacing=0.2rem&pause=350&color=F7F7F7&random=true&width=100&lines=Code;3D;Dev;Design" alt="Typing SVG" align="middle" height="50" /></a></h1>
 <p align="center">
   Game Dev • Web Dev • 3D • Systems
 </p>
@@ -26,15 +26,18 @@
 </p>
 
 ---
-
-<details open>
-  <summary><img src="https://img.shields.io/badge/NOW-5a4fcf?style=for-the-badge&labelColor=1a1b26" alt="Now" /></summary>
-  <p>
-    <img src="https://img.shields.io/github/last-commit/soma-code/soma-code" alt="GitHub last commit" />
-  </p>
-  Currently working on an Obsidian Second Brain system, Soma3D (ultra-light portfolio with Deno/Preact/Brotli), and an ECS/ECA system for Godot.
-</details>
-
+<br>
+<H4>
+Currently working on an Obsidian Second Brain system, Soma3D (ultra-light portfolio with Deno/Preact/Brotli), and an ECS/ECA system for Godot.<br>
+</h4>
+<p>
+  <img src="https://img.shields.io/github/last-commit/soma-code/soma-code" alt="GitHub last commit" />
+</p>
+<p align="left">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=1155837591&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=1155837591&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=8e4eb1&bar_color_cover=true">
+  </a>
+</p>
 <br>
 
 <details open>
@@ -59,10 +62,10 @@
                     </ul>
                 <p>
                     <a href="https://teicsoft.itch.io/gladiate" target="_blank" rel="noreferrer">
-                        <img src="https://img.shields.io/badge/itch.io-Gladiate-f7768e?style=for-the-badge&labelColor=1a1b26&logo=itchdotio&logoColor=white" alt="itch.io Gladiate" />
+                        <img src="https://img.shields.io/badge/itch.io-Gladiate-f7768e?style=for-the-badge&labelColor=1a1b26&logo=itchdotio&logoColor=white" alt="itch.io Gladiate!" />
                     </a><br>
                     <a href="https://store.steampowered.com/app/3106750/Gladiate" target="_blank" rel="noreferrer">
-                        <img src="https://img.shields.io/badge/Steam-Gladiate-2ac3de?style=for-the-badge&labelColor=1a1b26&logo=steam&logoColor=white" alt="Steam Gladiate" />
+                        <img src="https://img.shields.io/badge/Steam-Gladiate-2ac3de?style=for-the-badge&labelColor=1a1b26&logo=steam&logoColor=white" alt="Steam Gladiate!" />
                     </a>
                 </p>
                 </p>
@@ -106,11 +109,43 @@
 
 <details>
   <summary><img src="https://img.shields.io/badge/WEB%20DEV-a13fe7?style=for-the-badge&labelColor=1a1b26" alt="Web Dev" /></summary>
-  <ul>
-    <li>Deno + Preact sites with a focus on performance and minimal payloads.</li>
-    <li>Design-forward UI with Tokyo Night palette sensibilities.</li>
-    <li>Portfolio: <a href="https://soma3d.org" target="_blank" rel="noreferrer">soma3d.org</a></li>
-  </ul>
+  <p align="center">
+    <hr>
+    <table>
+        <tr>
+            <td>
+                <p>
+                    Soma3D, a one page, ultralight portfolio website.
+                    A fast, modal-focused portfolio built with Deno Fresh. Responsive thumbnails on the grid, full-resolution only in the modal, and a GPU-friendly ambient background to keep things smooth.
+                </p>
+                <p>
+                    <a href="https://soma3d.org" target="_blank" rel="noreferrer">
+                        <img src="https://img.shields.io/badge/Soma3D-soma3d.org-7aa2f7?style=for-the-badge&labelColor=1a1b26" alt="Soma3D Website" />
+                    </a>
+                </p>
+                <details open>
+                  <summary><img src="https://img.shields.io/badge/STACK-2b2c3f?style=for-the-badge&labelColor=2b2c3f&color=2b2c3f" alt="Stack" /></summary>
+                  <p align="left">
+                    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="26" height="26"/></a>
+                    <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" width="26" height="26"/></a>
+                    <a href="https://docs.github.com/actions" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" width="26" height="26"/></a>
+                    <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" alt="HTML" width="26" height="26"/></a>
+                    <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" alt="CSS" width="26" height="26"/></a>
+                    <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="26" height="26"/></a>
+                    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="26" height="26"/></a>
+                    <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" alt="React" width="26" height="26"/></a>
+                    <a href="https://preactjs.com/" target="_blank" rel="noreferrer"><img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/2/preact-sqocl88c8e8s5smjyf5l7l.png/preact-aabdgrzgi9h24uyz5nbe71.png?_a=DATAg1AAZAA0" alt="Preact" width="26" height="26"/></a>
+                    <a href="https://deno.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=deno" alt="Deno" width="26" height="26"/></a>
+                    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="26" height="26"/></a>
+                    <a href="https://threejs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=threejs" alt="Three.js" width="26" height="26"/></a>
+                    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="26" height="26"/></a>
+                  </p>
+                </details>
+            </td>
+            <td><img align="right" width="700" height="500" src="https://i.vgy.me/TKO9Za.png" alt="Soma3D cover art"></td>
+        </tr>
+    </table>
+  </p>
 </details>
 
 <br>
