@@ -23,17 +23,17 @@
 ---
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/blender.svg" alt="Blender" width="40" height="40"/></a>
-  <a href="https://godotengine.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/godotengine.svg" alt="Godot" width="40" height="40"/></a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/adobephotoshop.svg" alt="Photoshop" width="40" height="40"/></a>
-  <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/adobeillustrator.svg" alt="Illustrator" width="40" height="40"/></a>
-  <a href="https://www.coreldraw.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/coreldraw.svg" alt="CorelDRAW" width="40" height="40"/></a>
-  <a href="https://affinity.serif.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/affinity.svg" alt="Affinity" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/typescript.svg" alt="TypeScript" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/javascript.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/react.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/tailwindcss.svg" alt="Tailwind" width="40" height="40"/></a>
-  <a href="https://fresh.deno.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/fresh.svg" alt="Fresh" width="40" height="40"/></a>
-  <a href="https://deno.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/deno.svg" alt="Deno" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/docker.svg" alt="Docker" width="40" height="40"/></a>
+  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=blender" alt="Blender" width="40" height="40"/></a>
+  <a href="https://godotengine.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=godot" alt="Godot" width="40" height="40"/></a>
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=photoshop" alt="Photoshop" width="40" height="40"/></a>
+  <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=illustrator" alt="Illustrator" width="40" height="40"/></a>
+  <a href="https://www.coreldraw.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=coreldraw" alt="CorelDRAW" width="40" height="40"/></a>
+  <a href="https://affinity.serif.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=affinity" alt="Affinity" width="40" height="40"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="40" height="40"/></a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40"/></a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="40" height="40"/></a>
+  <a href="https://fresh.deno.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=fresh" alt="Fresh" width="40" height="40"/></a>
+  <a href="https://deno.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=deno" alt="Deno" width="40" height="40"/></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40"/></a>
 </p>
