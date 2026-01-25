@@ -28,7 +28,7 @@
 ---
 <br>
 <H4>
-Currently working on an Obsidian Second Brain system, Soma3D (ultra-light portfolio with Deno/Preact/Brotli), and an ECS/ECA system for Godot.<br>
+Currently working on a Movment Shooter prototype, Soma3D (ultra-light portfolio with Deno/Preact/Brotli), and an ECS/ECA system for Godot.<br>
 </h4>
 <p>
   <img src="https://img.shields.io/github/last-commit/soma-code/soma-code" alt="GitHub last commit" />
