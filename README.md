@@ -28,7 +28,7 @@
 ---
 <br>
 <H4>
-Currently working on decompiling adobe air games and making a Cargo Hunters save editor in python.<br>
+Currently working on soma3d.org v3 and a physics based organisation game.<br>
 </h4>
 <p>
   <img src="https://img.shields.io/github/last-commit/soma-code/soma-code" alt="GitHub last commit" />
